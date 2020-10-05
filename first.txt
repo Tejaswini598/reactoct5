@@ -5,3 +5,8 @@ This is my first application
 
 
 This is my second commit
+
+
+HTML
+CSS
+JavaScript
